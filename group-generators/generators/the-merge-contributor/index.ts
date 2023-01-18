@@ -15,6 +15,7 @@ const generator: GroupGenerator = {
           "0x0b7265f8b7d886317ffde328ae8c6185bc1523da": 1,
           "github:shemnon": 1,
           "gurukamath.eth": 1,
+          "needb.eth": 1,
           "samwilsn.eth": 1,
           "0x3f559454185098cb3a496f864a4bdd82b34c7fd1": 1,
           "github:samcm": 1,
